@@ -24,11 +24,17 @@ Use of Tables with Rowspan, Colspan, Headers, Captions, and Nested Tables.
 
 ## 📚 Theory
 
-1. **Table (`<table>`)**: Arranges data in rows and columns.
-2. **Rowspan**: Merges a cell vertically across rows.  
-   Example: `<td rowspan="2">Lab</td>`
-3. **Colspan**: Merges a cell horizontally across columns.  
-   Example: `<td colspan="3">Break</td>`
-4. **Header (`<th>`)**: Displays header cells in bold and centered.
-5. **Caption (`<caption>`)**: Defines the title of the table.
-6. **Nested Table**: A table placed inside another table cell.
+### 1. Table (`<table>`)
+Arranges data in rows and columns.
+### 2. Rowspan
+Merges a cell vertically across rows.  
+Example: `<td rowspan="2">Lab</td>`
+### 3. Colspan
+Merges a cell horizontally across columns.  
+Example: `<td colspan="3">Break</td>`
+### 4. Header (`<th>`)
+Displays header cells in bold and centered.
+### 5. Caption (`<caption>`)
+Defines the title of the table.
+### 6. Nested Table
+A table placed inside another table cell.
